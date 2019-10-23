@@ -1,0 +1,319 @@
+[
+
+      {
+        "trigger" : "\\bsant[eé]\\b",
+        "possible_answers" : [
+            "Santé {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🍺"
+        ]
+    },
+    {
+        "trigger" : "\\bbi[eè]re\\b",
+        "possible_answers" : [
+            "Et une bière pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🍺"
+        ]
+    },
+    {   
+
+        "trigger" : "🎱",
+        "possible_answers" : [
+                  "Damnation ! Je n'arrive pas à y croire.",
+                  "Cela est-il possible ?",
+                  "Franchement ! Je n'ai même pas besoin de répondre à ta question.",
+                  "Je n'en suis pas si sûr, vois-tu.",
+                  "Vraiment ? Je ne le savais pas, merci de m'apprendre un truc.",
+                  "Comment tu sais ça ? Tu es un espion du KGB ? Fais gaffe, je suis un agent infiltré de la CIA.",
+                  "Meuh oui.",
+                  "Moi !",
+                  "Je ne suis pas sûr de pouvoir répondre exactement à la question posée, donc je me tais.",
+                  "Je suis tavernier moi, pas diseur de bonne aventure.",
+                  "La boule magique a raison !",
+                  "Je ne te pensais pas capable de dire une chose pareille.",
+                  "Continue comme ça !",
+                  "Oh, c'est pas gentil ça, je vais le dire à Goldy !",
+                  "Bienvenue ! Ah non oups, je me suis trompé.",
+                  "Si tu le dis, c'est que c'est probablement vrai.",
+                  "D'accord !",
+                  "C'est très correct.",
+                  "Je ne pense pas.",
+                  "On m'appelle ? Non je ne suis pas là.",
+                  "Plouf plouf, ce sera toi qui sera la réponse, 1, 2, 3... zut alors, ça tombe sur oui.",
+                  "10€ et je te dis la réponse.",
+                  "Alors là, tu peux toujours rêver mon gars.",
+                  "Bien sûr que oui !",
+                  "À ta place, je ne poserai même pas la question.",
+                  "Nope.",
+                  "J'aimerai bien te dire la bonne réponse bien de chez nous, mais je l'ai oubliée. c'est ballot hein ?",
+                  "Salut ! Je vais bien et toi ?",
+                  "Hein ? Désolé je n'ai pas entendu ta question. Faudra que je pense à m'acheter des lunettes moi.",
+                  "10 puissance 2 ! Hé oui j'ai la réponse à tout moi.",
+                  "Apporte-moi un soda et je te donne la réponse.",
+                  "Hm, cela pose un sacré problème... laisse-moi y réfléchir quelques siècles, je donnerai la réponse à tes arrières-arrières-petits-fils.",
+                  "Salut, c'est René comme d'hab' ! Et... non, ta question est trop philosophique pour moi, désolé.",
+                  "En fait, je pense juste que je vais pas répondre.",
+                  "Bien fait pour toi !",
+                  "Moui, ça peut se tenter.",
+                  "Et pourquoi pas ?",
+                  "Mais bien sûr ! Et les marmottes elles mangent du chocolat.",
+                  "Et si c'était vrai ?",
+                  "C'est cela, oui.",
+                  "P't'et ben qu'oui, p't'et ben qu'non.",
+                  "Si je dis oui, c'est que je dirai pas non.",
+                  "Faut voir.",
+                  "Mais bien sûr.",
+                  "Fais comme chez toi !",
+                  "Qui sait ?",
+                  "Intéressant.",
+                  "René.exe a cessé de fonctionner, veuillez reposer la question.",
+                  "Tu sais quoi ? Moi pas.",
+                  "Flemme de répondre.",
+                  "Tu sais, dans la vie y'a jamais de problèmes, y'a que des solutions. Donc ta question ne vaut rien. Au suivant !",
+                  "Eowalim, réponds à ma place s'il te plaît, je te paie pas pour rien !",
+                  "Abracadabra, ça tombe sur... zut, dé cassé.",
+                  "What? Speak French please.",
+                  "¿Qué? Habla francés por favor.",
+                  "Ceci me laisse perplexe, et je n'aime pas être perplexe. Donc... une minute, c'était quoi ta question déjà ?",
+                  "René, tavernier de profession, j'exerce à... hein ? C'était pas ça la question ?",
+                  "D'après toi ?",
+                  "Je ne suis pas sûr d'avoir cerné le sens concret de ta question. En gros : tu peux répéter ?",
+                  "Je n'ai rien à dire là-dessus.",
+                  "Enorme !",
+                  "Bigre !",
+                  "Diantre, je le savais pas ça.",
+                  "Fichtre, je sais pas quoi répondre. Client suivant !",
+                  "Cornegidouille ! La réponse est... 42 ! Quoi ? Si c'est ça, René ne se trompe jamais.",
+                  "Par tous les dieux des tavernes ! C'est quoi cette question ?",
+                  "La boule magique !",
+                  "Essaye plus tard.",
+                  "Pas d'avis.",
+                  "C'est ton destin.",
+                  "Le sort en est jeté.",
+                  "Une chance sur deux.",
+                  "Repose ta question.",
+                  "D'après moi oui !",
+                  "C'est certain !",
+                  "Oui absolument !",
+                  "Tu peux compter dessus !",
+                  "Sans aucun doute !",
+                  "Très probable !",
+                  "Oui !",
+                  "C'est bien parti !",
+                  "C'est non.",
+                  "Peu probable.",
+                  "Faut pas rêver.",
+                  "N'y compte pas.",
+                  "Impossible.",
+                  "Non pas aujourd'hui.",
+                  "Fais-toi plaisir.",
+                  "Aucune idée.",
+                  "Essaie encore.",
+                  "Mais OUIIII…",
+                  "Absolument hors de question.",
+                  "Pire idée de la semaine.",
+                  "<:dgoodenough:630499765066661948>",
+                  "<:doublekebab:617335654187139092>",
+                  "<:yee:598884022407397378>",
+                  "<:ghfish:593013018489520138>",
+                  "<:gaben:587391393572585493>",
+                  "<:goldok:577928234486857728>",
+                  "<:Kappa:481951003906932747>",
+                  "<:LUL:449392257695744031>",
+                  "<:SaulDisgust:429019872832258068>",
+                  "<:HHHDisgust:429012543218909184>",
+                  "<:Hilarious:429012543126634496>",
+                  "<:CBCringe02:429012541851828244>",
+                  "<:RockWut:429012541709221890>",
+                  "<:CBSmile:429012541679861760>",
+                  "<:VargSmile:414056117291974656>",
+                  "<:VargStop:403641515219484672>",
+                  "<:VargLaugh:401154388791656449>",
+                  "<:VargSeriously:401154388749582336>",
+                  "<:transparent:397005562916896768>",
+                  "<:Farage04:386930760571027466>",
+                  "<:Farage01:386930758067159041>",
+                  "<:Farage02:386930757794267136>",
+                  "<:Farage05:386930756926308357>",
+                  "<:Farage03:386930756909531136>",
+                  "<:JCenaNoggle:362343396267786242>:",
+                  "<:Nicholson:358775390791270402>",
+                  "<:Jilette:358775363263922176>",
+                  "<:pepe:358775345060642826>",
+                  "<:JCenaSmile:358775306456137728>",
+                  "<:JCenaShock:358775295433768980>",
+                  "<:CBCringe:358775258670694401>",
+                  "<:DB_AH:352843800235868160>",
+                  "<:PleaseClap:352843168590331905>",
+                  "<:Trump:352843168040878080>",
+                  "<:Phil:352843165616832523>",
+                  "<:Chuck:352843161338511375>",
+                  "<:LAFlic:352617633507573760>",
+                  "<:Risitas:352617632983285761>",
+                  "<:GPT:352615781395070988>",
+                  "<:Chirac:352616492191186954>",
+                  "Clairement ça se tente !"
+        ],
+        "reactions" : [
+        ]
+    },
+    {
+        "trigger" : "\\boriginal ?1942\\b",
+        "possible_answers" : [
+            "Un Fal Cola Original 1942 pour {0.author.mention} ! On reconnaît les connaisseurs !"
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\bfunchy ?2052\\b",
+        "possible_answers" : [
+            "Un Funchy 2052 pour {0.author.mention} ! Pour avoir plus de fun !"
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\boriginal ?1974\\b",
+        "possible_answers" : [
+            "Un Fal Cola Original 1974 pour {0.author.mention} ! On reconnaît les connaisseurs ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+
+    {
+        "trigger" : "\\bhabanero ?1975\\b",
+        "possible_answers" : [
+            "Et un Habanero 1975 qui va bien, un ! pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\bdouble ?sugar ?1991\\b",
+        "possible_answers" : [
+            "La sugarmania a encore frappé ! Un Double Sugar pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\bdiabetotron ?1995\\b",
+        "possible_answers" : [
+            "Un Diabetotron pour {0.author.mention} ! A deathwish ?! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\borange ?2006\\b",
+        "possible_answers" : [
+            "Attention les yeux, un Fal Cola Orange 2006 pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\borange ?2009\\b",
+        "possible_answers" : [
+            "Attention les yeux, un Fal Cola Orange 2009 pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\boutrun'84 ?2017\\b",
+        "possible_answers" : [
+            "Et un Outrun'84 2017 pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\bmidnight ?2045\\b",
+        "possible_answers" : [
+            "Et un Midnight 2045 pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\bofunchyt ?2052\\b",
+        "possible_answers" : [
+            "Et un funky Funchy pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\bradiation ?lemon ?2064\\b",
+        "possible_answers" : [
+            "LE Radiation Lemon pour 2064 pour {0.author.mention} ! Toujours imité, jamais égalé !"
+        ],
+        "reactions" : [
+            "🥤"
+        ]
+    },
+    {
+        "trigger" : "\\bcaf[eé]\\b",
+        "possible_answers" : [
+            "Chaud devant ! Un Café pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "☕"
+        ]
+    },
+    {
+        "trigger" : "\\bth[eé]\\b",
+        "possible_answers" : [
+            "Chaud devant ! Un Thé pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🍵"
+        ]
+    },
+    {
+        "trigger" : "\\bchocolat ?chaud\\b",
+        "possible_answers" : [
+            "Chaud devant ! Un Chocolat chaud pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "☕"
+        ]
+    },
+    {
+        "trigger" : "\\bdemi\\b",
+        "possible_answers" : [
+            "Et un Demi pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🍺"
+        ]
+    },
+    {
+        "trigger" : "\\bkebab\\b",
+        "possible_answers" : [
+            "Chaud devant ! Un Kebab pour {0.author.mention} ! "
+        ],
+        "reactions" : [
+            "🥙"
+        ]
+    }
+]
+
+

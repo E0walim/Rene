@@ -1,0 +1,111 @@
+[
+    {
+        "trigger" : "[cçÇ]a va rené \\?",
+        "possible_answers" : [
+            "Très bien et toi {0.author.mention} ?",
+            "Nope, j'ai fait la teuf hier soir, j'ai un peu la 🤢, là…",
+            "Yeah !! C'est la teuf 🥳 !",
+            "Chuut ! Je 😴...",
+            "Bof, je suis fauché… T'as pas 10 balles ? 😋",
+            "Chuis pas là, j'ai aqua-poney 😈",
+            "Hé tu vois pas que je joue à FORTNITE ??!",
+            "Ça fait pas 4 fois que tu demandes, toi ?",
+            "Ça irait mieux si on me fichait un peu la paix, mais bon…",
+            "Trop bien ! Je ramasse des bigorneaux !",
+            "Bah mieux que toi, je dirais ! Noraj, hein",
+            "J'ai battu le Moon Lord ! J'ai battu le Moon Lord ! \\o/",
+            "Pas trop, j'ai pris une flèche dans le genou… Je vais finir garde, c'est sûr 😱 ",
+            "Chais pas, j'ai envie de rien aujourd'hui…",
+            "C'est cool que t'arrives, {0.author.mention}, je commençais à m'ennuyer !",
+            "Sekiro est enfin sorti, tout baigne, merci !",
+            "Naaaaan ! Eowalim arrête pas de m'embêter !",
+            "Bah moyen en fait… C'est quand Terraria ??!",
+            "_Parti en vacances_",
+            "Hein ?! Non, je dors pas ! 😝",
+            "Ouiii ! Je reviens de loin ! 😅",
+            "Pas hyper, j'ai croisé les Flamands Roses à Kamyshovo 😔",
+            "Ouep, j'tattends sur Mordhau 😎",
+            "🤣 Mais trop biennnn quoi !!",
+            "Ça dépend… tu vas rester longtemps ?",
+            "Erf ! Demain j'ai mon QUATRième check up… je flippe un peu 😰 !",
+            "Qu'est-ce que tu manges, là ?! Fais croquer !",
+            "Tiens t'es pas sur le uTip, toi o_0"
+
+        ],
+        "reactions" : [
+        ]
+    },
+    {
+        "trigger" : "^(?!.*pas)\\bren[eé] ?je ?t'aime\\b",
+        "possible_answers" : [
+            "Moi pas trop {0.author.mention}",
+            "C'est normal, je suis génial",
+            "Moi aussiiiiiiii ❤",
+            "Hmm… t'approche pas trop !",
+            "Au secours ! J'appelle la police !",
+            "Ouais mais c'est pas toi qui décide ^^"
+            
+        ],
+        "reactions" : [
+            "❤"
+        ]
+    },
+    {   
+
+        "trigger" : "\\bbigre\\b",
+        "possible_answers" : [
+            "Bigre {0.author.mention} !"
+        ],
+        "reactions" : [
+        ]
+    },
+    {
+        "trigger" : "\\bbonjour\\b",
+        "possible_answers" : [
+            "☀ Bonjour {0.author.mention}, comment vas-tu aujourd'hui ?"
+        ],
+        "reactions" : [
+        ]
+    },
+    {
+        "trigger" : "\\bbonsoir\\b",
+        "possible_answers" : [
+            "Bonsoir {0.author.mention} j'espère que t'as passé une bonne journée 🌄"
+        ],
+        "reactions" : [
+        ]
+    },
+    {
+        "trigger" : "\\bbonne nuit\\b",
+        "possible_answers" : [
+            "Bonne nuit {0.author.mention} fais de beaux rêves 🌙"
+        ],
+        "reactions" : [
+        ]
+    },
+    {
+        "trigger" : "\\bgh\\b",
+        "possible_answers" : [
+        ],
+        "reactions" : [
+            ":VargSmile:414056117291974656"
+        ]
+    },
+    {
+        "trigger" : "\\bgold ?hawk\\b",
+        "possible_answers" : [
+            "Notre grand maître à tous"
+        ],
+        "reactions" : [
+        ]
+    },
+    {
+        "trigger" : "\\bmalades?\\b",
+        "possible_answers" : [
+            "Sorry {0.author.mention}, rétablis-toi bien. Je suis sûr que tu vas surmonter ça. YOU CAN DO IT !!!"
+        ],
+        "reactions" : [
+            "🤢"
+        ]
+    }
+]
